@@ -1,6 +1,6 @@
 # Hi 👋 I'm Darshit Nanera
 
-🎓 B.Tech CSE Student at Marwadi University  
+🎓 B.Tech IT Student at Marwadi University  
 💻 Interested in Android Development and AI/ML
 
 ## 🚀 Skills
